@@ -1,4 +1,4 @@
-#opens the file with the cumulative
+#opens the file with the comm.
 file = open(r"new.txt", "r")
 lines = file.read().splitlines()
 
