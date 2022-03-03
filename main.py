@@ -12,7 +12,7 @@ allL = file.read().splitlines()
 #loop
 all = {}
 for i in allL:
-    #turns the vocab into a dict
+    #turns the vocab into a dictionary
     split = i.split("	")
     print(split)
     all[split[0]] = split[1]
