@@ -1,4 +1,4 @@
-anthrop	human/կpeople
+anthrop	human/people
 bi	two
 civ, cit	city/group
 anthropology	study of human beings, customs, and characteristics of society
@@ -20,6 +20,7 @@ civilian	a person not on the city or national military, police, or firefighting 
 geo	earth
 graph	writing/picture
 -ian	person who is, does, or specializes in
+anthrop	2
 chron	time
 geography	writing and drawing (maps) about physical features and life on earth
 geode	hollow stone found on the earth that is lined on the inside with crystals
