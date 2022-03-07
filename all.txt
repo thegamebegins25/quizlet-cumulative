@@ -1,4 +1,4 @@
-anthrop	human/people
+anthrop	human/կpeople
 bi	two
 civ, cit	city/group
 anthropology	study of human beings, customs, and characteristics of society
